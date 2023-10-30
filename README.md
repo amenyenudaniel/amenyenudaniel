@@ -9,7 +9,7 @@ Frontend developer 🎨 passionate about crafting stunning web experiences with 
 * 🌍  I'm based in Ghana ~ Accra
 * 🖥️  See my portfolio at [My Website](http://danielamenyenu.netlify.app)
 * ✉️  You can contact me at [amenyenudaniel321@gmail.com](mailto:amenyenudaniel321@gmail.com)
-* 🚀  I'm currently working on [Youtube Clone](http://https://youtube-clone-website.vercel.app/)
+* 🚀  I'm currently working on [Youtube Clone](http://https:/youtube-clone-website.vercel.app/)
 * 🧠  I'm learning Node JS
 * 🤝  I'm open to collaborating on Frontend Development (websites and applications)
 * ⚡  "Code your dreams; let every line build your vision's reality." 🚀💻🌟
